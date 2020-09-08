@@ -1,0 +1,2 @@
+rootProject.name='Pacinto'
+include ':app'
